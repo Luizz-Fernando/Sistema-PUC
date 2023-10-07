@@ -309,7 +309,7 @@ while True:
     else:
         while True:
 
-            sub_opcao = menu_operações(opcao)
+            sub_opcao = menu_operacoes(opcao)
 
             limpatela()
 
