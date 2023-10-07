@@ -26,7 +26,7 @@ def menu_principal():
     return opcao
 
 # Funçõo para mostrar menu de operações, a função precisa de um parâmetro, que seria a escolha da pessoa em "menu_principal"
-def menu_operações(opcao):
+def menu_operacoes(opcao):
     print("\n")
     if opcao == '1':
         print("------ MENU DE ESTUDANTE ----- \n")
